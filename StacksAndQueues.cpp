@@ -13,6 +13,7 @@ using std::string;
 /*Normally this wouldn't be empty, but apperently you have to have all template implementations 
 in a header file.*/
 
+//commit
 
 //**********************************
 //Write your code above here
